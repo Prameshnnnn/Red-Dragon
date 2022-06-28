@@ -80,7 +80,7 @@ global.sp = '⭔' //A Charactor In Menu!
 
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
-global.footer = '🅟🅡🅐🅜🅔🅢🅗✈️✈️.' // DO NOT CHANGE!
+global.footer = '🅟🅡🅐🅜🅔🅢🅗❤️✈️.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'හරි ✅',
