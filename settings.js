@@ -67,7 +67,7 @@ global.ownernomer = '+94704472592' //Owner Number <<<
 global.ownername = '✈️𝙥𝙧𝙖𝙢𝙚𝙨𝙝✈️' //Owner Name
 global.botname = ' ✈️𝙥𝙧𝙖𝙢𝙚𝙨𝙝✈️' //Bot Name
 
-global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
+global.button = '🤭🌸මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
 global.btnurl = '🙂🔥කරන්න කියන හැම දෙයක්ම කරන්න එපා බන්😅😅?😑' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
